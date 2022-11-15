@@ -1,0 +1,10 @@
+{
+	"useTabs": true,
+	"jsxSingleQuote": true,
+	"singleQuote": true,
+	"proseWrap": "always",
+	"quoteProps": "consistent",
+	"trailingComma": "none",
+	"tabWidth": 4,
+	"printWidth": 120
+}

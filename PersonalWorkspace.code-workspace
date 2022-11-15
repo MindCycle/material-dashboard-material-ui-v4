@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		 
+		"spellright.language": [
+			"en"
+		],
+		"spellright.documentTypes": [
+			"markdown",
+			"latex"
+		],
+		"prettier.jsxSingleQuote": true,
+		"eslint.alwaysShowStatus": true,
+		"eslint.nodeEnv": "development",
+		"eslint.packageManager": "yarn"
+	}
+}
